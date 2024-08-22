@@ -21,7 +21,7 @@
 </p>
       </td>   
      <td>
-      <img src="https://github.com/demicarrothers/images/blob/main/200w.gif?raw=true" width="500">
+      <img src="https://tenor.com/view/cat-work-in-progress-progress-gif-6698056592000242882" width="500">
      </td>
    </tr>
 </table>
