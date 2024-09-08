@@ -8,6 +8,7 @@
         <li>Studier of Languages (Delphi, C++, C)</li>
         <li>Synthesizer and Music Enthusiast</li>
         <li>Rookie Laser Operator</li>
+        <li>Cybersecurity Nerd</li>
       </ul>  
      <h2> Languages </h2>
         <p float="left">
